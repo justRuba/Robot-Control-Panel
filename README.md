@@ -214,7 +214,3 @@ Create the following files in the `robot_control` folder:
 
 1. Open your browser and go to [http://localhost/robot_control/index.php](http://localhost/robot_control/index.php) to control the robot.
 2. Navigate to [http://localhost/robot_control/display.php](http://localhost/robot_control/display.php) to view the last movement direction.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
