@@ -28,7 +28,7 @@ Start Apache and MySQL services from the XAMPP Control Panel.
 
 ### 3. Create Database
 
-1. Open your browser and go to [phpMyAdmin](http://localhost/phpmyadmin).
+1. Open the browser and go to [phpMyAdmin](http://localhost/phpmyadmin).
 2. Create a new database named `robot_control`.
 3. Create a `movement` table with the following SQL:
 
@@ -212,7 +212,7 @@ Create the following files in the `robot_control` folder:
 
 ## Usage
 
-1. Open your browser and go to [http://localhost/robot_control/index.php](http://localhost/robot_control/index.php) to control the robot.
+1. Open the browser and go to [http://localhost/robot_control/index.php](http://localhost/robot_control/index.php) to control the robot.
 2. Navigate to [http://localhost/robot_control/display.php](http://localhost/robot_control/display.php) to view the last movement direction.
 
 ## Web-Based Control Interface
