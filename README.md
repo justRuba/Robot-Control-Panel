@@ -214,3 +214,17 @@ Create the following files in the `robot_control` folder:
 
 1. Open your browser and go to [http://localhost/robot_control/index.php](http://localhost/robot_control/index.php) to control the robot.
 2. Navigate to [http://localhost/robot_control/display.php](http://localhost/robot_control/display.php) to view the last movement direction.
+
+## Web-Based Control Interface
+
+![image 1](https://github.com/justRuba/Robot-Control-Panel/assets/134620937/6d97b17d-72a7-4fdf-ad07-a56aaa1a1234)
+
+## Database Integration
+
+![image_(1)i 1](https://github.com/justRuba/Robot-Control-Panel/assets/134620937/be74e4a2-5ac9-49a3-bdae-461a2f3b67df)
+
+## Movement History Display
+
+![image_(1)hh 1](https://github.com/justRuba/Robot-Control-Panel/assets/134620937/f54c5b5e-80c2-419f-b1e0-2d9f9654832d)
+
+
